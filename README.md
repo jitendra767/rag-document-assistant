@@ -95,3 +95,17 @@ streamlit run app.py
 * Persistent vector database
 * Source citation display
 * Advanced retrieval techniques
+
+## Screenshots
+
+### Home Screen
+
+![Home](screenshots/home.png)
+
+### Upload Document
+
+![Upload](screenshots/upload.png)
+
+### Ask Questions
+
+![Question Answering](screenshots/QA.png)
